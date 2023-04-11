@@ -5,10 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://olegsheetov.github.io/olegsheetov.Portfolio-landing.io/](https://olegsheetov.github.io/olegsheetov.Portfolio-landing.io/)
 
-- 💬 Ask me about **React, JS ...**
-
-- 📫 How to reach me **olegshitov5.@gmail.com**
-
 
 <p align="left">
 </p>
